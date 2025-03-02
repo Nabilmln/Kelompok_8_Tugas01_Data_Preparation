@@ -23,3 +23,15 @@ Dataset ini berisi informasi tentang faktor-faktor yang dapat memengaruhi tingka
 - **📚 Akademik & Pekerjaan:** Academic Pressure, Work Pressure, CGPA, Study Satisfaction, Job Satisfaction  
 - **🩺 Gaya Hidup & Kesehatan Mental:** Sleep Duration, Dietary Habits, Suicidal Thoughts, Work/Study Hours, Financial Stress, Family History of Mental Illness  
 
+### ⚙️ **Environment**  
+📌 **Platform yang digunakan:**  
+- **Kaggle** (Notebook & Dataset Management)  
+- **Jupyter Notebook (.ipynb)** (Analisis & Eksperimen)  
+
+📌 **Library yang digunakan:**  
+- `pandas` 🐼 (Manipulasi Data)  
+- `numpy` 🔢 (Operasi Numerik)  
+- `matplotlib` 📊 (Visualisasi Data)  
+- `seaborn` 🎨 (Statistik & Grafik)  
+- `sklearn` 🤖 (Machine Learning & Preprocessing)  
+
